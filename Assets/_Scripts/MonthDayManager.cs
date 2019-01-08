@@ -6,7 +6,6 @@ using UnityEngine.UI;
 public class MonthDayManager : MonoBehaviour {
     public Image DayBG { get; set; } 
     public string JournalEntry { get; set; }
-    private Journal test;
 
     private void Awake()
     {

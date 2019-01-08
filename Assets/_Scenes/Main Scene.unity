@@ -406,7 +406,6 @@ GameObject:
   - component: {fileID: 49329231}
   - component: {fileID: 49329230}
   - component: {fileID: 49329233}
-  - component: {fileID: 49329234}
   m_Layer: 5
   m_Name: DayBox18
   m_TagString: Untagged
@@ -550,17 +549,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &49329234
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 49329228}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &98491725
@@ -819,7 +807,6 @@ GameObject:
   - component: {fileID: 130831832}
   - component: {fileID: 130831831}
   - component: {fileID: 130831834}
-  - component: {fileID: 130831835}
   m_Layer: 5
   m_Name: DayBox38
   m_TagString: Untagged
@@ -965,17 +952,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &130831835
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 130831829}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &172992491
 GameObject:
   m_ObjectHideFlags: 0
@@ -1063,7 +1039,6 @@ GameObject:
   - component: {fileID: 244179848}
   - component: {fileID: 244179847}
   - component: {fileID: 244179850}
-  - component: {fileID: 244179851}
   m_Layer: 5
   m_Name: DayBox03
   m_TagString: Untagged
@@ -1209,17 +1184,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &244179851
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 244179845}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &265134310
 GameObject:
   m_ObjectHideFlags: 0
@@ -1232,7 +1196,6 @@ GameObject:
   - component: {fileID: 265134313}
   - component: {fileID: 265134312}
   - component: {fileID: 265134315}
-  - component: {fileID: 265134316}
   m_Layer: 5
   m_Name: DayBox22
   m_TagString: Untagged
@@ -1376,17 +1339,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &265134316
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 265134310}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &279151023
@@ -1762,7 +1714,6 @@ GameObject:
   - component: {fileID: 348913831}
   - component: {fileID: 348913830}
   - component: {fileID: 348913833}
-  - component: {fileID: 348913834}
   m_Layer: 5
   m_Name: DayBox34
   m_TagString: Untagged
@@ -1906,17 +1857,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &348913834
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 348913828}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &374041798
@@ -2219,7 +2159,6 @@ GameObject:
   - component: {fileID: 461371790}
   - component: {fileID: 461371789}
   - component: {fileID: 461371792}
-  - component: {fileID: 461371793}
   m_Layer: 5
   m_Name: DayBox05
   m_TagString: Untagged
@@ -2365,17 +2304,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &461371793
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 461371787}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &497484861
 GameObject:
   m_ObjectHideFlags: 0
@@ -2463,7 +2391,6 @@ GameObject:
   - component: {fileID: 498290932}
   - component: {fileID: 498290931}
   - component: {fileID: 498290934}
-  - component: {fileID: 498290935}
   m_Layer: 5
   m_Name: DayBox17
   m_TagString: Untagged
@@ -2609,17 +2536,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &498290935
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 498290929}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &510245590
 GameObject:
   m_ObjectHideFlags: 0
@@ -2632,7 +2548,6 @@ GameObject:
   - component: {fileID: 510245593}
   - component: {fileID: 510245592}
   - component: {fileID: 510245595}
-  - component: {fileID: 510245596}
   m_Layer: 5
   m_Name: DayBox10
   m_TagString: Untagged
@@ -2776,17 +2691,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &510245596
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 510245590}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &519420028
@@ -2953,7 +2857,6 @@ GameObject:
   - component: {fileID: 537549999}
   - component: {fileID: 537549998}
   - component: {fileID: 537550001}
-  - component: {fileID: 537550002}
   m_Layer: 5
   m_Name: DayBox31
   m_TagString: Untagged
@@ -3099,17 +3002,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &537550002
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 537549996}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &556356631
 GameObject:
   m_ObjectHideFlags: 0
@@ -3197,7 +3089,6 @@ GameObject:
   - component: {fileID: 559024337}
   - component: {fileID: 559024336}
   - component: {fileID: 559024339}
-  - component: {fileID: 559024340}
   m_Layer: 5
   m_Name: DayBox11
   m_TagString: Untagged
@@ -3341,17 +3232,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &559024340
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 559024334}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &654758624
@@ -3897,7 +3777,6 @@ GameObject:
   - component: {fileID: 788456791}
   - component: {fileID: 788456790}
   - component: {fileID: 788456793}
-  - component: {fileID: 788456794}
   m_Layer: 5
   m_Name: DayBox19
   m_TagString: Untagged
@@ -4043,17 +3922,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &788456794
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 788456788}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &812238091
 GameObject:
   m_ObjectHideFlags: 0
@@ -4141,7 +4009,6 @@ GameObject:
   - component: {fileID: 817246472}
   - component: {fileID: 817246471}
   - component: {fileID: 817246474}
-  - component: {fileID: 817246475}
   m_Layer: 5
   m_Name: DayBox29
   m_TagString: Untagged
@@ -4285,17 +4152,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &817246475
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 817246469}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &837856440
@@ -4564,7 +4420,6 @@ GameObject:
   - component: {fileID: 852192426}
   - component: {fileID: 852192425}
   - component: {fileID: 852192424}
-  - component: {fileID: 852192428}
   m_Layer: 5
   m_Name: Month Canvas
   m_TagString: Untagged
@@ -4650,62 +4505,6 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!114 &852192428
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 852192423}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 19b6240505b34c0438510f21051ae824, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  month: 
-  monthIndex: 0
-  dayJournal:
-  - {fileID: 1603425322}
-  - {fileID: 1680771006}
-  - {fileID: 945695748}
-  - {fileID: 244179851}
-  - {fileID: 1629015434}
-  - {fileID: 461371793}
-  - {fileID: 1434610525}
-  - {fileID: 1594419029}
-  - {fileID: 1160235993}
-  - {fileID: 1156075861}
-  - {fileID: 510245596}
-  - {fileID: 559024340}
-  - {fileID: 1926498201}
-  - {fileID: 931929439}
-  - {fileID: 1994240094}
-  - {fileID: 1576548769}
-  - {fileID: 1745667954}
-  - {fileID: 498290935}
-  - {fileID: 49329234}
-  - {fileID: 788456794}
-  - {fileID: 1705303599}
-  - {fileID: 1847411508}
-  - {fileID: 265134316}
-  - {fileID: 1398093440}
-  - {fileID: 1221175755}
-  - {fileID: 2146244771}
-  - {fileID: 1483472104}
-  - {fileID: 1098238610}
-  - {fileID: 1517188402}
-  - {fileID: 817246475}
-  - {fileID: 997380591}
-  - {fileID: 537550002}
-  - {fileID: 1712505914}
-  - {fileID: 1813053159}
-  - {fileID: 348913834}
-  - {fileID: 1768907919}
-  - {fileID: 1143922464}
-  - {fileID: 1683484211}
-  - {fileID: 130831835}
-  - {fileID: 2091817041}
-  - {fileID: 1791486369}
-  - {fileID: 1753968217}
 --- !u!1 &861315154
 GameObject:
   m_ObjectHideFlags: 0
@@ -4829,7 +4628,6 @@ GameObject:
   - component: {fileID: 931929436}
   - component: {fileID: 931929435}
   - component: {fileID: 931929438}
-  - component: {fileID: 931929439}
   m_Layer: 5
   m_Name: DayBox13
   m_TagString: Untagged
@@ -4975,17 +4773,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &931929439
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 931929433}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &934933468
 GameObject:
   m_ObjectHideFlags: 0
@@ -5073,7 +4860,6 @@ GameObject:
   - component: {fileID: 945695745}
   - component: {fileID: 945695744}
   - component: {fileID: 945695747}
-  - component: {fileID: 945695748}
   m_Layer: 5
   m_Name: DayBox02
   m_TagString: Untagged
@@ -5219,17 +5005,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &945695748
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 945695742}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &961823130
 GameObject:
   m_ObjectHideFlags: 0
@@ -5317,7 +5092,6 @@ GameObject:
   - component: {fileID: 997380588}
   - component: {fileID: 997380587}
   - component: {fileID: 997380590}
-  - component: {fileID: 997380591}
   m_Layer: 5
   m_Name: DayBox30
   m_TagString: Untagged
@@ -5461,17 +5235,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &997380591
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 997380585}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1010685632
@@ -5814,7 +5577,6 @@ GameObject:
   - component: {fileID: 1098238607}
   - component: {fileID: 1098238606}
   - component: {fileID: 1098238609}
-  - component: {fileID: 1098238610}
   m_Layer: 5
   m_Name: DayBox27
   m_TagString: Untagged
@@ -5958,17 +5720,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1098238610
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1098238604}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1110178512
@@ -6180,7 +5931,6 @@ GameObject:
   - component: {fileID: 1143922461}
   - component: {fileID: 1143922460}
   - component: {fileID: 1143922463}
-  - component: {fileID: 1143922464}
   m_Layer: 5
   m_Name: DayBox36
   m_TagString: Untagged
@@ -6326,17 +6076,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1143922464
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1143922458}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1144969575
 GameObject:
   m_ObjectHideFlags: 0
@@ -6424,7 +6163,6 @@ GameObject:
   - component: {fileID: 1156075858}
   - component: {fileID: 1156075857}
   - component: {fileID: 1156075860}
-  - component: {fileID: 1156075861}
   m_Layer: 5
   m_Name: DayBox09
   m_TagString: Untagged
@@ -6570,17 +6308,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1156075861
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1156075855}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1156315018
 GameObject:
   m_ObjectHideFlags: 0
@@ -6668,7 +6395,6 @@ GameObject:
   - component: {fileID: 1160235990}
   - component: {fileID: 1160235989}
   - component: {fileID: 1160235992}
-  - component: {fileID: 1160235993}
   m_Layer: 5
   m_Name: DayBox08
   m_TagString: Untagged
@@ -6812,17 +6538,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1160235993
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1160235987}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1177667126
@@ -6975,7 +6690,6 @@ GameObject:
   - component: {fileID: 1221175752}
   - component: {fileID: 1221175751}
   - component: {fileID: 1221175754}
-  - component: {fileID: 1221175755}
   m_Layer: 5
   m_Name: DayBox24
   m_TagString: Untagged
@@ -7119,17 +6833,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1221175755
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1221175749}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1234638710
@@ -7780,7 +7483,6 @@ GameObject:
   - component: {fileID: 1398093437}
   - component: {fileID: 1398093436}
   - component: {fileID: 1398093439}
-  - component: {fileID: 1398093440}
   m_Layer: 5
   m_Name: DayBox23
   m_TagString: Untagged
@@ -7926,17 +7628,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1398093440
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1398093434}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1434610519
 GameObject:
   m_ObjectHideFlags: 0
@@ -7949,7 +7640,6 @@ GameObject:
   - component: {fileID: 1434610522}
   - component: {fileID: 1434610521}
   - component: {fileID: 1434610524}
-  - component: {fileID: 1434610525}
   m_Layer: 5
   m_Name: DayBox06
   m_TagString: Untagged
@@ -8095,17 +7785,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1434610525
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1434610519}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1456651170
 GameObject:
   m_ObjectHideFlags: 0
@@ -8240,7 +7919,6 @@ GameObject:
   - component: {fileID: 1483472101}
   - component: {fileID: 1483472100}
   - component: {fileID: 1483472103}
-  - component: {fileID: 1483472104}
   m_Layer: 5
   m_Name: DayBox26
   m_TagString: Untagged
@@ -8384,17 +8062,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1483472104
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1483472098}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1500292868
@@ -8559,7 +8226,6 @@ GameObject:
   - component: {fileID: 1517188399}
   - component: {fileID: 1517188398}
   - component: {fileID: 1517188401}
-  - component: {fileID: 1517188402}
   m_Layer: 5
   m_Name: DayBox28
   m_TagString: Untagged
@@ -8705,17 +8371,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1517188402
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1517188396}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1523306219
 GameObject:
   m_ObjectHideFlags: 0
@@ -8803,7 +8458,6 @@ GameObject:
   - component: {fileID: 1576548766}
   - component: {fileID: 1576548765}
   - component: {fileID: 1576548768}
-  - component: {fileID: 1576548769}
   m_Layer: 5
   m_Name: DayBox15
   m_TagString: Untagged
@@ -8949,17 +8603,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1576548769
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1576548763}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1580191846
 GameObject:
   m_ObjectHideFlags: 0
@@ -9047,7 +8690,6 @@ GameObject:
   - component: {fileID: 1594419026}
   - component: {fileID: 1594419025}
   - component: {fileID: 1594419028}
-  - component: {fileID: 1594419029}
   m_Layer: 5
   m_Name: DayBox07
   m_TagString: Untagged
@@ -9193,17 +8835,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1594419029
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1594419023}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1603425316
 GameObject:
   m_ObjectHideFlags: 0
@@ -9216,7 +8847,6 @@ GameObject:
   - component: {fileID: 1603425319}
   - component: {fileID: 1603425318}
   - component: {fileID: 1603425321}
-  - component: {fileID: 1603425322}
   m_Layer: 5
   m_Name: DayBox00
   m_TagString: Untagged
@@ -9362,17 +8992,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1603425322
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1603425316}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1629015428
 GameObject:
   m_ObjectHideFlags: 0
@@ -9385,7 +9004,6 @@ GameObject:
   - component: {fileID: 1629015431}
   - component: {fileID: 1629015430}
   - component: {fileID: 1629015433}
-  - component: {fileID: 1629015434}
   m_Layer: 5
   m_Name: DayBox04
   m_TagString: Untagged
@@ -9531,17 +9149,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1629015434
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1629015428}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1629812096
 GameObject:
   m_ObjectHideFlags: 0
@@ -9629,7 +9236,6 @@ GameObject:
   - component: {fileID: 1680771003}
   - component: {fileID: 1680771002}
   - component: {fileID: 1680771005}
-  - component: {fileID: 1680771006}
   m_Layer: 5
   m_Name: DayBox01
   m_TagString: Untagged
@@ -9775,17 +9381,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1680771006
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1680771000}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1683484205
 GameObject:
   m_ObjectHideFlags: 0
@@ -9798,7 +9393,6 @@ GameObject:
   - component: {fileID: 1683484208}
   - component: {fileID: 1683484207}
   - component: {fileID: 1683484210}
-  - component: {fileID: 1683484211}
   m_Layer: 5
   m_Name: DayBox37
   m_TagString: Untagged
@@ -9944,17 +9538,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1683484211
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1683484205}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1693131810
 GameObject:
   m_ObjectHideFlags: 0
@@ -10089,7 +9672,6 @@ GameObject:
   - component: {fileID: 1705303596}
   - component: {fileID: 1705303595}
   - component: {fileID: 1705303598}
-  - component: {fileID: 1705303599}
   m_Layer: 5
   m_Name: DayBox20
   m_TagString: Untagged
@@ -10235,17 +9817,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1705303599
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1705303593}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1712505908
 GameObject:
   m_ObjectHideFlags: 0
@@ -10258,7 +9829,6 @@ GameObject:
   - component: {fileID: 1712505911}
   - component: {fileID: 1712505910}
   - component: {fileID: 1712505913}
-  - component: {fileID: 1712505914}
   m_Layer: 5
   m_Name: DayBox32
   m_TagString: Untagged
@@ -10404,17 +9974,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1712505914
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1712505908}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1745667948
 GameObject:
   m_ObjectHideFlags: 0
@@ -10427,7 +9986,6 @@ GameObject:
   - component: {fileID: 1745667951}
   - component: {fileID: 1745667950}
   - component: {fileID: 1745667953}
-  - component: {fileID: 1745667954}
   m_Layer: 5
   m_Name: DayBox16
   m_TagString: Untagged
@@ -10571,17 +10129,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1745667954
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1745667948}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1746600091
@@ -10745,28 +10292,6 @@ MonoBehaviour:
           m_StringArgument: 
           m_BoolArgument: 0
         m_CallState: 2
-      - m_Target: {fileID: 1010685632}
-        m_MethodName: SetActive
-        m_Mode: 6
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
-      - m_Target: {fileID: 1010685632}
-        m_MethodName: 
-        m_Mode: 1
-        m_Arguments:
-          m_ObjectArgument: {fileID: 0}
-          m_ObjectArgumentAssemblyTypeName: 
-          m_IntArgument: 0
-          m_FloatArgument: 0
-          m_StringArgument: 
-          m_BoolArgument: 1
-        m_CallState: 2
     m_TypeName: UnityEngine.UI.Button+ButtonClickedEvent, UnityEngine.UI, Version=1.0.0.0,
       Culture=neutral, PublicKeyToken=null
 --- !u!114 &1748069417
@@ -10815,7 +10340,6 @@ GameObject:
   - component: {fileID: 1753968214}
   - component: {fileID: 1753968213}
   - component: {fileID: 1753968216}
-  - component: {fileID: 1753968217}
   m_Layer: 5
   m_Name: DayBox41
   m_TagString: Untagged
@@ -10961,17 +10485,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1753968217
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1753968211}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1768907913
 GameObject:
   m_ObjectHideFlags: 0
@@ -10984,7 +10497,6 @@ GameObject:
   - component: {fileID: 1768907916}
   - component: {fileID: 1768907915}
   - component: {fileID: 1768907918}
-  - component: {fileID: 1768907919}
   m_Layer: 5
   m_Name: DayBox35
   m_TagString: Untagged
@@ -11128,17 +10640,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1768907919
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1768907913}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1776808506
@@ -11365,7 +10866,6 @@ GameObject:
   - component: {fileID: 1791486366}
   - component: {fileID: 1791486365}
   - component: {fileID: 1791486368}
-  - component: {fileID: 1791486369}
   m_Layer: 5
   m_Name: DayBox40
   m_TagString: Untagged
@@ -11511,17 +11011,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1791486369
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1791486363}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1792732404
 GameObject:
   m_ObjectHideFlags: 0
@@ -11609,7 +11098,6 @@ GameObject:
   - component: {fileID: 1813053156}
   - component: {fileID: 1813053155}
   - component: {fileID: 1813053158}
-  - component: {fileID: 1813053159}
   m_Layer: 5
   m_Name: DayBox33
   m_TagString: Untagged
@@ -11755,17 +11243,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &1813053159
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1813053153}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &1823690544
 GameObject:
   m_ObjectHideFlags: 0
@@ -11853,7 +11330,6 @@ GameObject:
   - component: {fileID: 1847411505}
   - component: {fileID: 1847411504}
   - component: {fileID: 1847411507}
-  - component: {fileID: 1847411508}
   m_Layer: 5
   m_Name: DayBox21
   m_TagString: Untagged
@@ -11997,17 +11473,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1847411508
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1847411502}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1858953176
@@ -12172,7 +11637,6 @@ GameObject:
   - component: {fileID: 1926498198}
   - component: {fileID: 1926498197}
   - component: {fileID: 1926498200}
-  - component: {fileID: 1926498201}
   m_Layer: 5
   m_Name: DayBox12
   m_TagString: Untagged
@@ -12316,17 +11780,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1926498201
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1926498195}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1927648510
@@ -12695,7 +12148,6 @@ GameObject:
   - component: {fileID: 1994240091}
   - component: {fileID: 1994240090}
   - component: {fileID: 1994240093}
-  - component: {fileID: 1994240094}
   m_Layer: 5
   m_Name: DayBox14
   m_TagString: Untagged
@@ -12839,17 +12291,6 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &1994240094
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 1994240088}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &2000560059
@@ -13174,7 +12615,6 @@ GameObject:
   - component: {fileID: 2091817038}
   - component: {fileID: 2091817037}
   - component: {fileID: 2091817040}
-  - component: {fileID: 2091817041}
   m_Layer: 5
   m_Name: DayBox39
   m_TagString: Untagged
@@ -13320,17 +12760,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!114 &2091817041
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2091817035}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
 --- !u!1 &2125002967
 GameObject:
   m_ObjectHideFlags: 0
@@ -13472,7 +12901,6 @@ GameObject:
   - component: {fileID: 2146244768}
   - component: {fileID: 2146244767}
   - component: {fileID: 2146244770}
-  - component: {fileID: 2146244771}
   m_Layer: 5
   m_Name: DayBox25
   m_TagString: Untagged
@@ -13616,16 +13044,5 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: ab9ade6dda475d044852d2aca634e2c5, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!114 &2146244771
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
-  m_GameObject: {fileID: 2146244765}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: bf914a8871eda2647b12d23b21a00aee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
