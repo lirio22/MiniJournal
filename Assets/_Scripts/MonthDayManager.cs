@@ -4,17 +4,19 @@ using UnityEngine;
 using UnityEngine.UI;
 
 public class MonthDayManager : MonoBehaviour {
-    public Image box;
-    public string journal = "";
+    public Image DayBG { get; set; } 
+    public string JournalEntry { get; set; }
+    private Journal test;
 
-    public void Awake()
+    private void Awake()
     {
-        box = GetComponent<Image>();
+        DayBG = GetComponent<Image>();
+        JournalEntry = "";
     }
 
-    public void SetDay(Color newColor, string newEntry)
+    public void SetDayEntry(Color humorColor, string newEntry)
     {
-        box.color = newColor;
-        journal = newEntry;
+        DayBG.color = humorColor;
+        JournalEntry = newEntry;
     }
 }

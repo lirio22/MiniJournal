@@ -61,8 +61,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Assets\_Scripts\DayJournal.cs" />
+    <Compile Include="Assets\_Scripts\Journal.cs" />
     <Compile Include="Assets\_Scripts\JournalDayManager.cs" />
     <Compile Include="Assets\_Scripts\MonthDayManager.cs" />
+    <Compile Include="Assets\_Scripts\MonthManager.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/maira.iida/Documents/Estudos/Mini Journal/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
